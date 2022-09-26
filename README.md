@@ -14,7 +14,6 @@ This repo is a clone of https://github.com/miguelgrinberg/flasky
 ## Activity 4
 ![image](https://user-images.githubusercontent.com/48219309/192386527-d2ee1981-d9b3-40f4-bffa-bc0cf3f607df.png)
 ![image](https://user-images.githubusercontent.com/48219309/192386544-30f64430-7e7a-461e-b57a-5363c659e4b6.png)
-![image](https://user-images.githubusercontent.com/48219309/192386552-4b98e042-6bb1-41e9-a54d-ba7b4ffc5eba.png)
 ![image](https://user-images.githubusercontent.com/48219309/192386563-2462dad3-08a3-47f2-8e0f-615623730155.png)
-
+![image](https://user-images.githubusercontent.com/48219309/192386552-4b98e042-6bb1-41e9-a54d-ba7b4ffc5eba.png)
 
